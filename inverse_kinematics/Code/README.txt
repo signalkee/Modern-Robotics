@@ -1,0 +1,2 @@
+DONT CHANGE THE NAME OF THE GIVEN MATLAB FILE NAMED "IKinBodyIterates.m" 
+MATLAB recongnizes functions by their file name. If you changed the file name, you MUST also change the code so the function name inside the code is the same as the file name.
